@@ -1,6 +1,6 @@
-MANIFEST       ���̃t�@�C��
-README         �܂��ŏ��ɂ��ǂ݉�����
-NOTICE         �Ō��Ƌ����ɂ��Ă̍�����
-CHANGES        join�̃��f���`�F���W�̗���
-join.1         join�̃}�j���A��
-join.x         join���s�t�@�C��
+MANIFEST       このファイル
+README         まず最初にお読み下さい
+NOTICE         版権と許諾についての告示書
+CHANGES        joinのモデルチェンジの履歴
+join.1         joinのマニュアル
+join.x         join実行ファイル
